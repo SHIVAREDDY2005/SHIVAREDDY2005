@@ -105,19 +105,11 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVAREDDY2005&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVAREDDY2005&theme=tokyonight" width="48%"/>
-</p>
-
----
 
 ## 🤝 Connect With Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/surkanti-surkantishivareddy-" target="_blank">
+  <a href="linkedin.com/in/surkanti-surkantishivareddy-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:surkantishivareddyoff@gmail.com">
