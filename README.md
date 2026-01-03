@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Surkanti Shiva Reddy</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | AI • Full Stack • DSA • Hackathons</h3>
 
-<p align="center">
-  <a href="https://github.com/SHIVAREDDY2005">
-    <img src="https://komarev.com/ghpvc/?username=SHIVAREDDY2005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me  
@@ -84,26 +78,14 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVAREDDY2005&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVAREDDY2005&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAREDDY2005&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com](https://linkedin.com/in/surkanti-surkantishivareddy-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:surkantishivareddyoff@email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
