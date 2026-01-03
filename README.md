@@ -107,15 +107,15 @@
 
 
 ## 🤝 Connect With Me  
-
-<p align="left">
-  <a href="linkedin.com/in/surkanti-surkantishivareddy-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/surkanti-surkantishivareddy-/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:surkantishivareddyoff@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+    <img height="40" src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+
 
 ---
 
